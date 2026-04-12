@@ -31,8 +31,6 @@ for(let i=1; i<=n; i++)
         {
         term+="9";
         intTerm= parseInt(term);
-        
-        
     }
     console.log(term);
     sum+= intTerm;
